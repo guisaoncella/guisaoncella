@@ -30,5 +30,4 @@
 </div><hr/><br/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/guisaoncella/guisaoncella/output/github-snake-dark.svg)
-![github contribution grid snake animation](https://raw.githubusercontent.com/guisaoncella/guisaoncella/output/ocean.gif)
 <hr/> 
