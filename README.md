@@ -29,5 +29,6 @@
   <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div><hr/><br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/guisaoncella/guisaoncella/output/github-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/guisaoncella/guisaoncella/output/github-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/guisaoncella/guisaoncella/output/ocean.gif)
 <hr/> 
