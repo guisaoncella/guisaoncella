@@ -30,4 +30,4 @@
 </div><hr/><br/>
 
 ![Snake animation](https://github.com/guisaoncella/guisaoncella/blob/output/github-contribution-grid-snake.svg)
-  
+<hr/> 
