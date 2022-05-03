@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/guisaoncella">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guisaoncella&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisaoncella&layout=compact&langs_count=10&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?theme=radical&username=guisaoncella&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=guisaoncella&layout=compact&langs_count=10"/>
 </div>
   
 <div align="center" style="display: inline-block"><br/>
